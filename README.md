@@ -1,4 +1,4 @@
-# OnlineCourseSatisfactionFactors-COGS108
+# OnlineCourseSatisfactionFactors
 
 ## Overview
 This project investigates the impact of various course attributes—duration, difficulty, and price—on student satisfaction in online courses. Utilizing regression analysis and hypothesis testing, we delve into how these factors influence review ratings.
